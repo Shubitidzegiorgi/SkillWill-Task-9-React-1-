@@ -1,0 +1,27 @@
+{
+  "name": "skillwilltasks_react1",
+  "version": "1.0.0",
+  "description": "Check if the received data is an email",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shubitidzegiorgi/SkillWill-Task-9-React-1-.git"
+  },
+  "keywords": [
+    "validator",
+    "Email",
+    "checker"
+  ],
+  "author": "Giorgi Shubitidze",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shubitidzegiorgi/SkillWill-Task-9-React-1-/issues"
+  },
+  "homepage": "https://github.com/Shubitidzegiorgi/SkillWill-Task-9-React-1-#readme",
+  "dependencies": {
+    "validator": "^13.11.0"
+  }
+}
